@@ -17,6 +17,7 @@ Click Load unpacked and select directory of where you have files
 
 
 FireFox instructions
+
 Go to extensions by typing
 about:debugging#/runtime/this-firefox
 Then click Load Temporary Add-on
