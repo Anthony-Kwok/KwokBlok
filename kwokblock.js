@@ -113,6 +113,10 @@ filter = ["*://*.doubleclick.net/*",
 		 "*://ie8eamus.com/*",
 		 "*://o4uxrk33.com/*",
 		 "*://*.o4uxrk33.com/*",
+		 "*://*.24vunvrv.com/*",
+		 "*://24vunvrv.com/*",
+		 "*://defpush.com/*",
+		 "*://*.defpush.com/*",
 		 
 		 ]
 		 
@@ -123,7 +127,7 @@ filter = ["*://*.doubleclick.net/*",
 if(navigator.userAgent.indexOf("Chrome") != -1){
 	b = chrome;
 } else {
-	b = firefox;
+	b = browser;
 }
 
 b.webRequest.onBeforeRequest.addListener(
