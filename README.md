@@ -20,6 +20,7 @@ FireFox instructions
 
 Go to extensions by typing
 about:debugging#/runtime/this-firefox
+
 Then click Load Temporary Add-on
 Then select any file within the git repository directory on your local machine
 
