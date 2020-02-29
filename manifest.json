@@ -1,0 +1,10 @@
+{
+  "name": "KwokBlock",
+  "version": "1.0",
+  "description": "Browser AdBlocking Extension",
+  "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+  "background": {
+    "scripts": ["adblock.js"]
+  },
+  "manifest_version": 2
+}
