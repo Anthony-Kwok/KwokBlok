@@ -1,6 +1,7 @@
 # KwokBlock
+@Author Anthony Kwok
 
-This is a custom adblock extension that bypassses checks against Ublock Origin and Adblock Plus
+This is a custom, OPEN SOURCE, adblock extension that bypassses checks against Ublock Origin and Adblock Plus
 
 clone this repository
 
@@ -23,5 +24,7 @@ about:debugging#/runtime/this-firefox
 
 Then click Load Temporary Add-on
 Then select any file within the git repository directory on your local machine
+
+DISCLAIMER: I AM CURRENTLY NOT ADDING THIS TO THE EXTENSIONS STORE BECAUSE I DO NOT WANT SITES TO BE ABLE TO BLOCK THIS EXTENSION.
 
 TADAHHHH
