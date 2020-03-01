@@ -25,6 +25,7 @@ about:debugging#/runtime/this-firefox
 Then click Load Temporary Add-on
 Then select any file within the git repository directory on your local machine
 
-DISCLAIMER: I AM CURRENTLY NOT ADDING THIS TO THE EXTENSIONS STORE BECAUSE I DO NOT WANT SITES TO BE ABLE TO BLOCK THIS EXTENSION. THIS ALSO DOES NOT BLOCK YOUTUBE ADS.
+DISCLAIMER: I AM CURRENTLY NOT ADDING THIS TO CHROME EXTENSIONS STORE. THIS ALSO DOES NOT BLOCK ALL YOUTUBE ADS.
+Download Firefox extension https://addons.mozilla.org/en-US/firefox/addon/kwokblok/
 
 TADAHHHH
