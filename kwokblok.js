@@ -117736,7 +117736,8 @@ filter = ["*://*.doubleclick.net/*",
 		"*://zzy1.mipujia.com/*",
 		"*://infolinks.com/*",
 		"*://*.infolinks.com/*",
-
+		"*://nihongo-pro.com/common/ablkAlert/*",
+		"*://*.nihongo-pro.com/common/ablkAlert/*",
 		 ]
 		 
 		 

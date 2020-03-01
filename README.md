@@ -1,4 +1,4 @@
-# KwokBlock
+# KwokBlok
 @Author Anthony Kwok
 
 This is a custom, OPEN SOURCE, adblock extension that bypassses checks against Ublock Origin and Adblock Plus
